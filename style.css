@@ -1,0 +1,24 @@
+header{
+    background-color: #000000;
+}
+
+body{
+    background-image: url("https://media1.tenor.com/m/MUn350naKp8AAAAd/phonk-trollface.gif");
+    background-size: cover;
+}
+
+#featured{
+    color: white;
+}
+
+#content{
+    background-color: rgba(0, 0, 0, 0.5);
+    color: white;
+    position: absolute;
+    top: 50%;
+    left: 40%;
+}
+
+#header{
+    cursor: pointer;
+}
