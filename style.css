@@ -12,13 +12,15 @@ body{
 }
 
 #content{
-    background-color: rgba(0, 0, 0, 0.5);
+    background-color: rgba(0, 0, 0, 0.7);
+    background-size: cover;
     color: white;
     position: absolute;
     top: 50%;
-    left: 40%;
-}
-
-#header{
-    cursor: pointer;
+    left: 10%;
+    width: 60%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
 }
